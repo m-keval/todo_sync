@@ -3,7 +3,7 @@
 A modern, offline-first Flutter application demonstrating Clean Architecture, BLoC pattern, and seamless data synchronization with a RESTful API.
 
 ## 🎥 Demo
-https://github.com/m-keval/todo_sync/blob/master/demo/Record_2025-12-17-02-18-29.mp4
+https://github.com/user-attachments/assets/7591b455-3e21-4eee-9efa-f00dd3e1e291
 
 ## 📱 Features
 
